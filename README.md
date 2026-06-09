@@ -128,14 +128,6 @@ python-skills-up-30-days/
 
 ---
 
-## ⭐ Support
-
-<p align="center">
-If you find this repository useful or inspiring, consider giving it a ⭐ on GitHub.
-</p>
-
----
-
 <h3 align="center">
 🚀 “Consistency beats intensity.”
 </h3>
