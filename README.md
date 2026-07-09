@@ -5,7 +5,6 @@
 
 # 🚀 GFG Python Skills Up – 30 Days Challenge 2k26
 
-**👨‍🎓 Shriram Lahane**  
 🏫 Sinhgad College of Engineering (SCOE), Pune  
 📚 GeeksforGeeks DSA Learning Path 2k26
 
@@ -21,7 +20,7 @@ The goal is to strengthen Python fundamentals, improve problem-solving skills, a
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/shriram7057"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
   <a href="https://www.linkedin.com/in/shriram-lahane-12b692385/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
   <a href="https://leetcode.com/u/shriram_lahane/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35"/></a>
@@ -31,9 +30,4 @@ The goal is to strengthen Python fundamentals, improve problem-solving skills, a
   <a href="https://instagram.com/pvt.shree_01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35"/></a>
 </p>
 
-<div align="center">
-
-### 🚀 *"Consistency beats intensity."*
-
-</div>
 
