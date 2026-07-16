@@ -3,7 +3,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="140" alt="GeeksforGeeks Logo"/>
 
-# 🚀 GFG Python Skills Up – 30 Days Challenge 2k26
+# 🚀 GFG Python - Practice of the Day Challenge 2k26
 
 🏫 Sinhgad College of Engineering (SCOE), Pune  
 📚 GeeksforGeeks DSA Learning Path 2k26
